@@ -1,4 +1,5 @@
-![Logo](https://thewordsearch.com/v4/hangman/images/promo.png)
+![Logo](https://github.com/ketan270/HANGMAN-GAME/assets/146920220/cad0c84a-2ecd-4242-8343-44be311bc791)
+
 
 ## How To Play
 
